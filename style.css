@@ -1,0 +1,48 @@
+body {
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #4B513C;
+    color: #E1D7C2;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+a {
+    color: #C1B3A5;
+}
+
+a:hover {
+    color: #9b8b7a;
+}
+
+a:visited {
+    color: #A89B9D;
+}
+
+a:visited:hover {
+    color: #978487;
+}
+
+.header {
+    font-size: 48px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.home-return {
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 18px;
+}
+
+.section, .prompt {
+    font-size: 24px;
+    font-weight: bold;
+}
