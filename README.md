@@ -1,7 +1,7 @@
 # odin-recipes
 
 ## OBJECTIVE
-This basic HTML-only website shares a small selection of recipes from a homepage.
+This basic website shares a small selection of recipes from a homepage.
 <br><br>
 
 ## SKILLS AND TECH USED
