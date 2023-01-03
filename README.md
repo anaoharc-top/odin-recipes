@@ -1,6 +1,6 @@
 # TOP: Recipe Site
 
-<b>LIVE PREVIEW:</b> https://github.com/anaoharc-top/odin-recipes/settings/pages
+<b>LIVE PREVIEW:</b> https://anaoharc-top.github.io/odin-recipes/
 
 ## OBJECTIVE
 This basic website shares a small selection of recipes from a homepage.
