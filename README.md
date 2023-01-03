@@ -1,4 +1,4 @@
-# odin-recipes
+# TOP: Recipe Site
 
 ## OBJECTIVE
 This basic website shares a small selection of recipes from a homepage.
