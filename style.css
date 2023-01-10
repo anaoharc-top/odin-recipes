@@ -1,48 +1,68 @@
 body {
-    margin-top: 15px;
-    margin-left: 30px;
-    margin-right: 30px;
-    background-color: #4B513C;
-    color: #E1D7C2;
+    padding: 0% 20%;
+    background-color: #FFFFF3;
+    color: #111107;
     font-family: 'Segoe UI', Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
-
 a {
-    color: #C1B3A5;
+    color: #FF4365;
+    text-decoration: none;
 }
-
-a:hover {
-    color: #9b8b7a;
+a:hover:not .header {
+    color: #E73555;
+    text-decoration: underline;
 }
-
-a:visited {
-    color: #A89B9D;
-}
-
+a:visited:not .header {
+    color: #CE3A55;
+} 
 a:visited:hover {
-    color: #978487;
+    color: #E73555;
+    text-decoration: underline;
+}
+ul {
+    background-color: #E8FCEE;
+    border: 2px solid #00D9C0;
+    border-radius: 12px;
+    margin: 0;
+    padding: 5px;
+    list-style-type: none;
+}
+li {
+    margin-bottom: 15px;
 }
 
 .header {
     font-size: 48px;
     font-weight: bolder;
     text-align: center;
+    color: #E73555!important;
 }
 
-.home-return {
-    text-align: center;
+.content {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
 }
 
 .title {
     font-size: 36px;
     font-weight: bold;
 }
-
 .description {
     font-size: 18px;
 }
-
 .section, .prompt {
     font-size: 24px;
     font-weight: bold;
+}
+
+.footer {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: #E8FCEE;
+    border: 2px solid #00D9C0;
+    border-radius: 5px;
 }
